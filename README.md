@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Me llamo Santiago Gabriel Jimenez</h1>
 <h3 align="center">Explorando el mundo de la programación mientras avanzo en mi carrera en Ingeniería Informática.</h3>
 
-- 💬 Pregúntame sobre **C, SQL and HTML Y CSS**
+- 💬 Pregúntame sobre **C, SQL, HTML Y CSS**
 
 - 📫 Como llegar a mi: **jimesanti74@gmail.com**
 
