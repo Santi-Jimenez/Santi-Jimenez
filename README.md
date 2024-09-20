@@ -3,9 +3,9 @@
 
 - 💬 Pregúntame sobre **C, SQL and HTML Y CSS**
 
-- 📫 Como llegar a mi **jimesanti74@gmail.com**
+- 📫 Como llegar a mi: **jimesanti74@gmail.com**
 
-<h3 align="left">Conéctate conmigo::</h3>
+<h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/santiago-jimenez-063136248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/santiago-jimenez-063136248" height="30" width="40" /></a>
 </p>
